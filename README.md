@@ -7,7 +7,7 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 ## Icones
 
-:fire: Nova funcionalidade
-:dash: Atualização de Texto e Formatação
-:sweat_drops: Correção de bugs
-:collision: release
+- :package: Nova funcionalidade
+- :dash: Atualização de Texto e Formatação
+- :fire: Correção de bugs
+- :collision: release
